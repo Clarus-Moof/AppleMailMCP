@@ -45,14 +45,6 @@ In `~/.lmstudio/mcp.json` eintragen:
 ```json
 {
   "mcpServers": {
-    "web-search": {
-      "command": "node",
-      "args": ["/Users/michel/MCP-Servers/web-search-mcp/dist/index.js"],
-      "env": {
-        "MAX_CONTENT_LENGTH": "50000",
-        "DEFAULT_SEARCH_LIMIT": "3"
-      }
-    },
     "apple-mail": {
       "command": "/usr/local/bin/AppleMailMCP",
       "args": []
