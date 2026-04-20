@@ -1,0 +1,13 @@
+{
+  "": {
+    "dependencies": "/Users/michel/Desktop/AppleMailMCP_new/.build/arm64-apple-macosx/release/NIO.build/NIO.d",
+    "object": "/Users/michel/Desktop/AppleMailMCP_new/.build/arm64-apple-macosx/release/NIO.build/NIO.o",
+    "swift-dependencies": "/Users/michel/Desktop/AppleMailMCP_new/.build/arm64-apple-macosx/release/NIO.build/master.swiftdeps"
+  },
+  "/Users/michel/Desktop/AppleMailMCP_new/.build/checkouts/swift-nio/Sources/NIO/Exports.swift": {
+    "object": "/Users/michel/Desktop/AppleMailMCP_new/.build/arm64-apple-macosx/release/NIO.build/Exports.swift.o",
+    "swiftmodule": "/Users/michel/Desktop/AppleMailMCP_new/.build/arm64-apple-macosx/release/NIO.build/Exports~partial.swiftmodule",
+    "swift-dependencies": "/Users/michel/Desktop/AppleMailMCP_new/.build/arm64-apple-macosx/release/NIO.build/Exports.swiftdeps",
+    "diagnostics": "/Users/michel/Desktop/AppleMailMCP_new/.build/arm64-apple-macosx/release/NIO.build/Exports.dia"
+  }
+}

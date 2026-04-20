@@ -1,0 +1,31 @@
+{
+  "": {
+    "dependencies": "/Users/michel/Desktop/AppleMailMCP_new/.build/arm64-apple-macosx/release/EventSource.build/EventSource.d",
+    "object": "/Users/michel/Desktop/AppleMailMCP_new/.build/arm64-apple-macosx/release/EventSource.build/EventSource.o",
+    "swift-dependencies": "/Users/michel/Desktop/AppleMailMCP_new/.build/arm64-apple-macosx/release/EventSource.build/master.swiftdeps"
+  },
+  "/Users/michel/Desktop/AppleMailMCP_new/.build/checkouts/eventsource/Sources/EventSource/AsyncEventsSequence.swift": {
+    "object": "/Users/michel/Desktop/AppleMailMCP_new/.build/arm64-apple-macosx/release/EventSource.build/AsyncEventsSequence.swift.o",
+    "swiftmodule": "/Users/michel/Desktop/AppleMailMCP_new/.build/arm64-apple-macosx/release/EventSource.build/AsyncEventsSequence~partial.swiftmodule",
+    "swift-dependencies": "/Users/michel/Desktop/AppleMailMCP_new/.build/arm64-apple-macosx/release/EventSource.build/AsyncEventsSequence.swiftdeps",
+    "diagnostics": "/Users/michel/Desktop/AppleMailMCP_new/.build/arm64-apple-macosx/release/EventSource.build/AsyncEventsSequence.dia"
+  },
+  "/Users/michel/Desktop/AppleMailMCP_new/.build/checkouts/eventsource/Sources/EventSource/AsyncSequence+Events.swift": {
+    "object": "/Users/michel/Desktop/AppleMailMCP_new/.build/arm64-apple-macosx/release/EventSource.build/AsyncSequence+Events.swift.o",
+    "swiftmodule": "/Users/michel/Desktop/AppleMailMCP_new/.build/arm64-apple-macosx/release/EventSource.build/AsyncSequence+Events~partial.swiftmodule",
+    "swift-dependencies": "/Users/michel/Desktop/AppleMailMCP_new/.build/arm64-apple-macosx/release/EventSource.build/AsyncSequence+Events.swiftdeps",
+    "diagnostics": "/Users/michel/Desktop/AppleMailMCP_new/.build/arm64-apple-macosx/release/EventSource.build/AsyncSequence+Events.dia"
+  },
+  "/Users/michel/Desktop/AppleMailMCP_new/.build/checkouts/eventsource/Sources/EventSource/EventSource+AsyncHTTPClient.swift": {
+    "object": "/Users/michel/Desktop/AppleMailMCP_new/.build/arm64-apple-macosx/release/EventSource.build/EventSource+AsyncHTTPClient.swift.o",
+    "swiftmodule": "/Users/michel/Desktop/AppleMailMCP_new/.build/arm64-apple-macosx/release/EventSource.build/EventSource+AsyncHTTPClient~partial.swiftmodule",
+    "swift-dependencies": "/Users/michel/Desktop/AppleMailMCP_new/.build/arm64-apple-macosx/release/EventSource.build/EventSource+AsyncHTTPClient.swiftdeps",
+    "diagnostics": "/Users/michel/Desktop/AppleMailMCP_new/.build/arm64-apple-macosx/release/EventSource.build/EventSource+AsyncHTTPClient.dia"
+  },
+  "/Users/michel/Desktop/AppleMailMCP_new/.build/checkouts/eventsource/Sources/EventSource/EventSource.swift": {
+    "object": "/Users/michel/Desktop/AppleMailMCP_new/.build/arm64-apple-macosx/release/EventSource.build/EventSource.swift.o",
+    "swiftmodule": "/Users/michel/Desktop/AppleMailMCP_new/.build/arm64-apple-macosx/release/EventSource.build/EventSource~partial.swiftmodule",
+    "swift-dependencies": "/Users/michel/Desktop/AppleMailMCP_new/.build/arm64-apple-macosx/release/EventSource.build/EventSource.swiftdeps",
+    "diagnostics": "/Users/michel/Desktop/AppleMailMCP_new/.build/arm64-apple-macosx/release/EventSource.build/EventSource.dia"
+  }
+}

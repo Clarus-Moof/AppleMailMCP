@@ -1,0 +1,3 @@
+module Atomics {
+    header "/Users/michel/Desktop/AppleMailMCP_new/.build/arm64-apple-macosx/release/Atomics.build/include/Atomics-Swift.h"
+}

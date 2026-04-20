@@ -1,0 +1,19 @@
+{
+  "": {
+    "dependencies": "/Users/michel/Desktop/AppleMailMCP_new/.build/arm64-apple-macosx/release/MCPConformanceServer.build/MCPConformanceServer.d",
+    "object": "/Users/michel/Desktop/AppleMailMCP_new/.build/arm64-apple-macosx/release/MCPConformanceServer.build/MCPConformanceServer.o",
+    "swift-dependencies": "/Users/michel/Desktop/AppleMailMCP_new/.build/arm64-apple-macosx/release/MCPConformanceServer.build/master.swiftdeps"
+  },
+  "/Users/michel/Desktop/AppleMailMCP_new/.build/checkouts/swift-sdk/Sources/MCPConformance/Server/HTTPApp.swift": {
+    "object": "/Users/michel/Desktop/AppleMailMCP_new/.build/arm64-apple-macosx/release/MCPConformanceServer.build/HTTPApp.swift.o",
+    "swiftmodule": "/Users/michel/Desktop/AppleMailMCP_new/.build/arm64-apple-macosx/release/MCPConformanceServer.build/HTTPApp~partial.swiftmodule",
+    "swift-dependencies": "/Users/michel/Desktop/AppleMailMCP_new/.build/arm64-apple-macosx/release/MCPConformanceServer.build/HTTPApp.swiftdeps",
+    "diagnostics": "/Users/michel/Desktop/AppleMailMCP_new/.build/arm64-apple-macosx/release/MCPConformanceServer.build/HTTPApp.dia"
+  },
+  "/Users/michel/Desktop/AppleMailMCP_new/.build/checkouts/swift-sdk/Sources/MCPConformance/Server/main.swift": {
+    "object": "/Users/michel/Desktop/AppleMailMCP_new/.build/arm64-apple-macosx/release/MCPConformanceServer.build/main.swift.o",
+    "swiftmodule": "/Users/michel/Desktop/AppleMailMCP_new/.build/arm64-apple-macosx/release/MCPConformanceServer.build/main~partial.swiftmodule",
+    "swift-dependencies": "/Users/michel/Desktop/AppleMailMCP_new/.build/arm64-apple-macosx/release/MCPConformanceServer.build/main.swiftdeps",
+    "diagnostics": "/Users/michel/Desktop/AppleMailMCP_new/.build/arm64-apple-macosx/release/MCPConformanceServer.build/main.dia"
+  }
+}

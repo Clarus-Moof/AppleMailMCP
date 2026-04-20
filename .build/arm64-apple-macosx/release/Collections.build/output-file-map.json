@@ -1,0 +1,37 @@
+{
+  "": {
+    "dependencies": "/Users/michel/Desktop/AppleMailMCP_new/.build/arm64-apple-macosx/release/Collections.build/Collections.d",
+    "object": "/Users/michel/Desktop/AppleMailMCP_new/.build/arm64-apple-macosx/release/Collections.build/Collections.o",
+    "swift-dependencies": "/Users/michel/Desktop/AppleMailMCP_new/.build/arm64-apple-macosx/release/Collections.build/master.swiftdeps"
+  },
+  "/Users/michel/Desktop/AppleMailMCP_new/.build/checkouts/swift-collections/Sources/Collections/BitCollections reexports.swift": {
+    "object": "/Users/michel/Desktop/AppleMailMCP_new/.build/arm64-apple-macosx/release/Collections.build/BitCollections reexports.swift.o",
+    "swiftmodule": "/Users/michel/Desktop/AppleMailMCP_new/.build/arm64-apple-macosx/release/Collections.build/BitCollections reexports~partial.swiftmodule",
+    "swift-dependencies": "/Users/michel/Desktop/AppleMailMCP_new/.build/arm64-apple-macosx/release/Collections.build/BitCollections reexports.swiftdeps",
+    "diagnostics": "/Users/michel/Desktop/AppleMailMCP_new/.build/arm64-apple-macosx/release/Collections.build/BitCollections reexports.dia"
+  },
+  "/Users/michel/Desktop/AppleMailMCP_new/.build/checkouts/swift-collections/Sources/Collections/DequeModule reexports.swift": {
+    "object": "/Users/michel/Desktop/AppleMailMCP_new/.build/arm64-apple-macosx/release/Collections.build/DequeModule reexports.swift.o",
+    "swiftmodule": "/Users/michel/Desktop/AppleMailMCP_new/.build/arm64-apple-macosx/release/Collections.build/DequeModule reexports~partial.swiftmodule",
+    "swift-dependencies": "/Users/michel/Desktop/AppleMailMCP_new/.build/arm64-apple-macosx/release/Collections.build/DequeModule reexports.swiftdeps",
+    "diagnostics": "/Users/michel/Desktop/AppleMailMCP_new/.build/arm64-apple-macosx/release/Collections.build/DequeModule reexports.dia"
+  },
+  "/Users/michel/Desktop/AppleMailMCP_new/.build/checkouts/swift-collections/Sources/Collections/HashTreeCollections reexports.swift": {
+    "object": "/Users/michel/Desktop/AppleMailMCP_new/.build/arm64-apple-macosx/release/Collections.build/HashTreeCollections reexports.swift.o",
+    "swiftmodule": "/Users/michel/Desktop/AppleMailMCP_new/.build/arm64-apple-macosx/release/Collections.build/HashTreeCollections reexports~partial.swiftmodule",
+    "swift-dependencies": "/Users/michel/Desktop/AppleMailMCP_new/.build/arm64-apple-macosx/release/Collections.build/HashTreeCollections reexports.swiftdeps",
+    "diagnostics": "/Users/michel/Desktop/AppleMailMCP_new/.build/arm64-apple-macosx/release/Collections.build/HashTreeCollections reexports.dia"
+  },
+  "/Users/michel/Desktop/AppleMailMCP_new/.build/checkouts/swift-collections/Sources/Collections/HeapModule reexports.swift": {
+    "object": "/Users/michel/Desktop/AppleMailMCP_new/.build/arm64-apple-macosx/release/Collections.build/HeapModule reexports.swift.o",
+    "swiftmodule": "/Users/michel/Desktop/AppleMailMCP_new/.build/arm64-apple-macosx/release/Collections.build/HeapModule reexports~partial.swiftmodule",
+    "swift-dependencies": "/Users/michel/Desktop/AppleMailMCP_new/.build/arm64-apple-macosx/release/Collections.build/HeapModule reexports.swiftdeps",
+    "diagnostics": "/Users/michel/Desktop/AppleMailMCP_new/.build/arm64-apple-macosx/release/Collections.build/HeapModule reexports.dia"
+  },
+  "/Users/michel/Desktop/AppleMailMCP_new/.build/checkouts/swift-collections/Sources/Collections/OrderedCollections reexports.swift": {
+    "object": "/Users/michel/Desktop/AppleMailMCP_new/.build/arm64-apple-macosx/release/Collections.build/OrderedCollections reexports.swift.o",
+    "swiftmodule": "/Users/michel/Desktop/AppleMailMCP_new/.build/arm64-apple-macosx/release/Collections.build/OrderedCollections reexports~partial.swiftmodule",
+    "swift-dependencies": "/Users/michel/Desktop/AppleMailMCP_new/.build/arm64-apple-macosx/release/Collections.build/OrderedCollections reexports.swiftdeps",
+    "diagnostics": "/Users/michel/Desktop/AppleMailMCP_new/.build/arm64-apple-macosx/release/Collections.build/OrderedCollections reexports.dia"
+  }
+}

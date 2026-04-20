@@ -1,0 +1,25 @@
+{
+  "": {
+    "dependencies": "/Users/michel/Desktop/AppleMailMCP_new/.build/arm64-apple-macosx/release/AppleMailMCP.build/AppleMailMCP.d",
+    "object": "/Users/michel/Desktop/AppleMailMCP_new/.build/arm64-apple-macosx/release/AppleMailMCP.build/AppleMailMCP.o",
+    "swift-dependencies": "/Users/michel/Desktop/AppleMailMCP_new/.build/arm64-apple-macosx/release/AppleMailMCP.build/master.swiftdeps"
+  },
+  "/Users/michel/Desktop/AppleMailMCP_new/Sources/AppleMailMCP/Helpers.swift": {
+    "object": "/Users/michel/Desktop/AppleMailMCP_new/.build/arm64-apple-macosx/release/AppleMailMCP.build/Helpers.swift.o",
+    "swiftmodule": "/Users/michel/Desktop/AppleMailMCP_new/.build/arm64-apple-macosx/release/AppleMailMCP.build/Helpers~partial.swiftmodule",
+    "swift-dependencies": "/Users/michel/Desktop/AppleMailMCP_new/.build/arm64-apple-macosx/release/AppleMailMCP.build/Helpers.swiftdeps",
+    "diagnostics": "/Users/michel/Desktop/AppleMailMCP_new/.build/arm64-apple-macosx/release/AppleMailMCP.build/Helpers.dia"
+  },
+  "/Users/michel/Desktop/AppleMailMCP_new/Sources/AppleMailMCP/Tools.swift": {
+    "object": "/Users/michel/Desktop/AppleMailMCP_new/.build/arm64-apple-macosx/release/AppleMailMCP.build/Tools.swift.o",
+    "swiftmodule": "/Users/michel/Desktop/AppleMailMCP_new/.build/arm64-apple-macosx/release/AppleMailMCP.build/Tools~partial.swiftmodule",
+    "swift-dependencies": "/Users/michel/Desktop/AppleMailMCP_new/.build/arm64-apple-macosx/release/AppleMailMCP.build/Tools.swiftdeps",
+    "diagnostics": "/Users/michel/Desktop/AppleMailMCP_new/.build/arm64-apple-macosx/release/AppleMailMCP.build/Tools.dia"
+  },
+  "/Users/michel/Desktop/AppleMailMCP_new/Sources/AppleMailMCP/main.swift": {
+    "object": "/Users/michel/Desktop/AppleMailMCP_new/.build/arm64-apple-macosx/release/AppleMailMCP.build/main.swift.o",
+    "swiftmodule": "/Users/michel/Desktop/AppleMailMCP_new/.build/arm64-apple-macosx/release/AppleMailMCP.build/main~partial.swiftmodule",
+    "swift-dependencies": "/Users/michel/Desktop/AppleMailMCP_new/.build/arm64-apple-macosx/release/AppleMailMCP.build/main.swiftdeps",
+    "diagnostics": "/Users/michel/Desktop/AppleMailMCP_new/.build/arm64-apple-macosx/release/AppleMailMCP.build/main.dia"
+  }
+}

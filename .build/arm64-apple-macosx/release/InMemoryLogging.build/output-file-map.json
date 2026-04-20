@@ -1,0 +1,13 @@
+{
+  "": {
+    "dependencies": "/Users/michel/Desktop/AppleMailMCP_new/.build/arm64-apple-macosx/release/InMemoryLogging.build/InMemoryLogging.d",
+    "object": "/Users/michel/Desktop/AppleMailMCP_new/.build/arm64-apple-macosx/release/InMemoryLogging.build/InMemoryLogging.o",
+    "swift-dependencies": "/Users/michel/Desktop/AppleMailMCP_new/.build/arm64-apple-macosx/release/InMemoryLogging.build/master.swiftdeps"
+  },
+  "/Users/michel/Desktop/AppleMailMCP_new/.build/checkouts/swift-log/Sources/InMemoryLogging/InMemoryLogHandler.swift": {
+    "object": "/Users/michel/Desktop/AppleMailMCP_new/.build/arm64-apple-macosx/release/InMemoryLogging.build/InMemoryLogHandler.swift.o",
+    "swiftmodule": "/Users/michel/Desktop/AppleMailMCP_new/.build/arm64-apple-macosx/release/InMemoryLogging.build/InMemoryLogHandler~partial.swiftmodule",
+    "swift-dependencies": "/Users/michel/Desktop/AppleMailMCP_new/.build/arm64-apple-macosx/release/InMemoryLogging.build/InMemoryLogHandler.swiftdeps",
+    "diagnostics": "/Users/michel/Desktop/AppleMailMCP_new/.build/arm64-apple-macosx/release/InMemoryLogging.build/InMemoryLogHandler.dia"
+  }
+}

@@ -1,0 +1,289 @@
+{
+  "": {
+    "dependencies": "/Users/michel/Desktop/AppleMailMCP_new/.build/arm64-apple-macosx/release/MCP.build/MCP.d",
+    "object": "/Users/michel/Desktop/AppleMailMCP_new/.build/arm64-apple-macosx/release/MCP.build/MCP.o",
+    "swift-dependencies": "/Users/michel/Desktop/AppleMailMCP_new/.build/arm64-apple-macosx/release/MCP.build/master.swiftdeps"
+  },
+  "/Users/michel/Desktop/AppleMailMCP_new/.build/checkouts/swift-sdk/Sources/MCP/Base/Authorization/OAuthAuthorizationCodeFlow.swift": {
+    "object": "/Users/michel/Desktop/AppleMailMCP_new/.build/arm64-apple-macosx/release/MCP.build/OAuthAuthorizationCodeFlow.swift.o",
+    "swiftmodule": "/Users/michel/Desktop/AppleMailMCP_new/.build/arm64-apple-macosx/release/MCP.build/OAuthAuthorizationCodeFlow~partial.swiftmodule",
+    "swift-dependencies": "/Users/michel/Desktop/AppleMailMCP_new/.build/arm64-apple-macosx/release/MCP.build/OAuthAuthorizationCodeFlow.swiftdeps",
+    "diagnostics": "/Users/michel/Desktop/AppleMailMCP_new/.build/arm64-apple-macosx/release/MCP.build/OAuthAuthorizationCodeFlow.dia"
+  },
+  "/Users/michel/Desktop/AppleMailMCP_new/.build/checkouts/swift-sdk/Sources/MCP/Base/Authorization/OAuthAuthorizer.swift": {
+    "object": "/Users/michel/Desktop/AppleMailMCP_new/.build/arm64-apple-macosx/release/MCP.build/OAuthAuthorizer.swift.o",
+    "swiftmodule": "/Users/michel/Desktop/AppleMailMCP_new/.build/arm64-apple-macosx/release/MCP.build/OAuthAuthorizer~partial.swiftmodule",
+    "swift-dependencies": "/Users/michel/Desktop/AppleMailMCP_new/.build/arm64-apple-macosx/release/MCP.build/OAuthAuthorizer.swiftdeps",
+    "diagnostics": "/Users/michel/Desktop/AppleMailMCP_new/.build/arm64-apple-macosx/release/MCP.build/OAuthAuthorizer.dia"
+  },
+  "/Users/michel/Desktop/AppleMailMCP_new/.build/checkouts/swift-sdk/Sources/MCP/Base/Authorization/OAuthClientRegistrar.swift": {
+    "object": "/Users/michel/Desktop/AppleMailMCP_new/.build/arm64-apple-macosx/release/MCP.build/OAuthClientRegistrar.swift.o",
+    "swiftmodule": "/Users/michel/Desktop/AppleMailMCP_new/.build/arm64-apple-macosx/release/MCP.build/OAuthClientRegistrar~partial.swiftmodule",
+    "swift-dependencies": "/Users/michel/Desktop/AppleMailMCP_new/.build/arm64-apple-macosx/release/MCP.build/OAuthClientRegistrar.swiftdeps",
+    "diagnostics": "/Users/michel/Desktop/AppleMailMCP_new/.build/arm64-apple-macosx/release/MCP.build/OAuthClientRegistrar.dia"
+  },
+  "/Users/michel/Desktop/AppleMailMCP_new/.build/checkouts/swift-sdk/Sources/MCP/Base/Authorization/OAuthConfiguration.swift": {
+    "object": "/Users/michel/Desktop/AppleMailMCP_new/.build/arm64-apple-macosx/release/MCP.build/OAuthConfiguration.swift.o",
+    "swiftmodule": "/Users/michel/Desktop/AppleMailMCP_new/.build/arm64-apple-macosx/release/MCP.build/OAuthConfiguration~partial.swiftmodule",
+    "swift-dependencies": "/Users/michel/Desktop/AppleMailMCP_new/.build/arm64-apple-macosx/release/MCP.build/OAuthConfiguration.swiftdeps",
+    "diagnostics": "/Users/michel/Desktop/AppleMailMCP_new/.build/arm64-apple-macosx/release/MCP.build/OAuthConfiguration.dia"
+  },
+  "/Users/michel/Desktop/AppleMailMCP_new/.build/checkouts/swift-sdk/Sources/MCP/Base/Authorization/OAuthConstants.swift": {
+    "object": "/Users/michel/Desktop/AppleMailMCP_new/.build/arm64-apple-macosx/release/MCP.build/OAuthConstants.swift.o",
+    "swiftmodule": "/Users/michel/Desktop/AppleMailMCP_new/.build/arm64-apple-macosx/release/MCP.build/OAuthConstants~partial.swiftmodule",
+    "swift-dependencies": "/Users/michel/Desktop/AppleMailMCP_new/.build/arm64-apple-macosx/release/MCP.build/OAuthConstants.swiftdeps",
+    "diagnostics": "/Users/michel/Desktop/AppleMailMCP_new/.build/arm64-apple-macosx/release/MCP.build/OAuthConstants.dia"
+  },
+  "/Users/michel/Desktop/AppleMailMCP_new/.build/checkouts/swift-sdk/Sources/MCP/Base/Authorization/OAuthDiscovery.swift": {
+    "object": "/Users/michel/Desktop/AppleMailMCP_new/.build/arm64-apple-macosx/release/MCP.build/OAuthDiscovery.swift.o",
+    "swiftmodule": "/Users/michel/Desktop/AppleMailMCP_new/.build/arm64-apple-macosx/release/MCP.build/OAuthDiscovery~partial.swiftmodule",
+    "swift-dependencies": "/Users/michel/Desktop/AppleMailMCP_new/.build/arm64-apple-macosx/release/MCP.build/OAuthDiscovery.swiftdeps",
+    "diagnostics": "/Users/michel/Desktop/AppleMailMCP_new/.build/arm64-apple-macosx/release/MCP.build/OAuthDiscovery.dia"
+  },
+  "/Users/michel/Desktop/AppleMailMCP_new/.build/checkouts/swift-sdk/Sources/MCP/Base/Authorization/OAuthDiscoveryClient.swift": {
+    "object": "/Users/michel/Desktop/AppleMailMCP_new/.build/arm64-apple-macosx/release/MCP.build/OAuthDiscoveryClient.swift.o",
+    "swiftmodule": "/Users/michel/Desktop/AppleMailMCP_new/.build/arm64-apple-macosx/release/MCP.build/OAuthDiscoveryClient~partial.swiftmodule",
+    "swift-dependencies": "/Users/michel/Desktop/AppleMailMCP_new/.build/arm64-apple-macosx/release/MCP.build/OAuthDiscoveryClient.swiftdeps",
+    "diagnostics": "/Users/michel/Desktop/AppleMailMCP_new/.build/arm64-apple-macosx/release/MCP.build/OAuthDiscoveryClient.dia"
+  },
+  "/Users/michel/Desktop/AppleMailMCP_new/.build/checkouts/swift-sdk/Sources/MCP/Base/Authorization/OAuthErrors.swift": {
+    "object": "/Users/michel/Desktop/AppleMailMCP_new/.build/arm64-apple-macosx/release/MCP.build/OAuthErrors.swift.o",
+    "swiftmodule": "/Users/michel/Desktop/AppleMailMCP_new/.build/arm64-apple-macosx/release/MCP.build/OAuthErrors~partial.swiftmodule",
+    "swift-dependencies": "/Users/michel/Desktop/AppleMailMCP_new/.build/arm64-apple-macosx/release/MCP.build/OAuthErrors.swiftdeps",
+    "diagnostics": "/Users/michel/Desktop/AppleMailMCP_new/.build/arm64-apple-macosx/release/MCP.build/OAuthErrors.dia"
+  },
+  "/Users/michel/Desktop/AppleMailMCP_new/.build/checkouts/swift-sdk/Sources/MCP/Base/Authorization/OAuthModels.swift": {
+    "object": "/Users/michel/Desktop/AppleMailMCP_new/.build/arm64-apple-macosx/release/MCP.build/OAuthModels.swift.o",
+    "swiftmodule": "/Users/michel/Desktop/AppleMailMCP_new/.build/arm64-apple-macosx/release/MCP.build/OAuthModels~partial.swiftmodule",
+    "swift-dependencies": "/Users/michel/Desktop/AppleMailMCP_new/.build/arm64-apple-macosx/release/MCP.build/OAuthModels.swiftdeps",
+    "diagnostics": "/Users/michel/Desktop/AppleMailMCP_new/.build/arm64-apple-macosx/release/MCP.build/OAuthModels.dia"
+  },
+  "/Users/michel/Desktop/AppleMailMCP_new/.build/checkouts/swift-sdk/Sources/MCP/Base/Authorization/OAuthTokenEndpointClient.swift": {
+    "object": "/Users/michel/Desktop/AppleMailMCP_new/.build/arm64-apple-macosx/release/MCP.build/OAuthTokenEndpointClient.swift.o",
+    "swiftmodule": "/Users/michel/Desktop/AppleMailMCP_new/.build/arm64-apple-macosx/release/MCP.build/OAuthTokenEndpointClient~partial.swiftmodule",
+    "swift-dependencies": "/Users/michel/Desktop/AppleMailMCP_new/.build/arm64-apple-macosx/release/MCP.build/OAuthTokenEndpointClient.swiftdeps",
+    "diagnostics": "/Users/michel/Desktop/AppleMailMCP_new/.build/arm64-apple-macosx/release/MCP.build/OAuthTokenEndpointClient.dia"
+  },
+  "/Users/michel/Desktop/AppleMailMCP_new/.build/checkouts/swift-sdk/Sources/MCP/Base/Authorization/OAuthURLValidator.swift": {
+    "object": "/Users/michel/Desktop/AppleMailMCP_new/.build/arm64-apple-macosx/release/MCP.build/OAuthURLValidator.swift.o",
+    "swiftmodule": "/Users/michel/Desktop/AppleMailMCP_new/.build/arm64-apple-macosx/release/MCP.build/OAuthURLValidator~partial.swiftmodule",
+    "swift-dependencies": "/Users/michel/Desktop/AppleMailMCP_new/.build/arm64-apple-macosx/release/MCP.build/OAuthURLValidator.swiftdeps",
+    "diagnostics": "/Users/michel/Desktop/AppleMailMCP_new/.build/arm64-apple-macosx/release/MCP.build/OAuthURLValidator.dia"
+  },
+  "/Users/michel/Desktop/AppleMailMCP_new/.build/checkouts/swift-sdk/Sources/MCP/Base/Authorization/OAuthWWWAuthenticateParser.swift": {
+    "object": "/Users/michel/Desktop/AppleMailMCP_new/.build/arm64-apple-macosx/release/MCP.build/OAuthWWWAuthenticateParser.swift.o",
+    "swiftmodule": "/Users/michel/Desktop/AppleMailMCP_new/.build/arm64-apple-macosx/release/MCP.build/OAuthWWWAuthenticateParser~partial.swiftmodule",
+    "swift-dependencies": "/Users/michel/Desktop/AppleMailMCP_new/.build/arm64-apple-macosx/release/MCP.build/OAuthWWWAuthenticateParser.swiftdeps",
+    "diagnostics": "/Users/michel/Desktop/AppleMailMCP_new/.build/arm64-apple-macosx/release/MCP.build/OAuthWWWAuthenticateParser.dia"
+  },
+  "/Users/michel/Desktop/AppleMailMCP_new/.build/checkouts/swift-sdk/Sources/MCP/Base/Authorization/PKCE.swift": {
+    "object": "/Users/michel/Desktop/AppleMailMCP_new/.build/arm64-apple-macosx/release/MCP.build/PKCE.swift.o",
+    "swiftmodule": "/Users/michel/Desktop/AppleMailMCP_new/.build/arm64-apple-macosx/release/MCP.build/PKCE~partial.swiftmodule",
+    "swift-dependencies": "/Users/michel/Desktop/AppleMailMCP_new/.build/arm64-apple-macosx/release/MCP.build/PKCE.swiftdeps",
+    "diagnostics": "/Users/michel/Desktop/AppleMailMCP_new/.build/arm64-apple-macosx/release/MCP.build/PKCE.dia"
+  },
+  "/Users/michel/Desktop/AppleMailMCP_new/.build/checkouts/swift-sdk/Sources/MCP/Base/Authorization/TokenStorage.swift": {
+    "object": "/Users/michel/Desktop/AppleMailMCP_new/.build/arm64-apple-macosx/release/MCP.build/TokenStorage.swift.o",
+    "swiftmodule": "/Users/michel/Desktop/AppleMailMCP_new/.build/arm64-apple-macosx/release/MCP.build/TokenStorage~partial.swiftmodule",
+    "swift-dependencies": "/Users/michel/Desktop/AppleMailMCP_new/.build/arm64-apple-macosx/release/MCP.build/TokenStorage.swiftdeps",
+    "diagnostics": "/Users/michel/Desktop/AppleMailMCP_new/.build/arm64-apple-macosx/release/MCP.build/TokenStorage.dia"
+  },
+  "/Users/michel/Desktop/AppleMailMCP_new/.build/checkouts/swift-sdk/Sources/MCP/Base/Error.swift": {
+    "object": "/Users/michel/Desktop/AppleMailMCP_new/.build/arm64-apple-macosx/release/MCP.build/Error.swift.o",
+    "swiftmodule": "/Users/michel/Desktop/AppleMailMCP_new/.build/arm64-apple-macosx/release/MCP.build/Error~partial.swiftmodule",
+    "swift-dependencies": "/Users/michel/Desktop/AppleMailMCP_new/.build/arm64-apple-macosx/release/MCP.build/Error.swiftdeps",
+    "diagnostics": "/Users/michel/Desktop/AppleMailMCP_new/.build/arm64-apple-macosx/release/MCP.build/Error.dia"
+  },
+  "/Users/michel/Desktop/AppleMailMCP_new/.build/checkouts/swift-sdk/Sources/MCP/Base/ID.swift": {
+    "object": "/Users/michel/Desktop/AppleMailMCP_new/.build/arm64-apple-macosx/release/MCP.build/ID.swift.o",
+    "swiftmodule": "/Users/michel/Desktop/AppleMailMCP_new/.build/arm64-apple-macosx/release/MCP.build/ID~partial.swiftmodule",
+    "swift-dependencies": "/Users/michel/Desktop/AppleMailMCP_new/.build/arm64-apple-macosx/release/MCP.build/ID.swiftdeps",
+    "diagnostics": "/Users/michel/Desktop/AppleMailMCP_new/.build/arm64-apple-macosx/release/MCP.build/ID.dia"
+  },
+  "/Users/michel/Desktop/AppleMailMCP_new/.build/checkouts/swift-sdk/Sources/MCP/Base/Icon.swift": {
+    "object": "/Users/michel/Desktop/AppleMailMCP_new/.build/arm64-apple-macosx/release/MCP.build/Icon.swift.o",
+    "swiftmodule": "/Users/michel/Desktop/AppleMailMCP_new/.build/arm64-apple-macosx/release/MCP.build/Icon~partial.swiftmodule",
+    "swift-dependencies": "/Users/michel/Desktop/AppleMailMCP_new/.build/arm64-apple-macosx/release/MCP.build/Icon.swiftdeps",
+    "diagnostics": "/Users/michel/Desktop/AppleMailMCP_new/.build/arm64-apple-macosx/release/MCP.build/Icon.dia"
+  },
+  "/Users/michel/Desktop/AppleMailMCP_new/.build/checkouts/swift-sdk/Sources/MCP/Base/Lifecycle.swift": {
+    "object": "/Users/michel/Desktop/AppleMailMCP_new/.build/arm64-apple-macosx/release/MCP.build/Lifecycle.swift.o",
+    "swiftmodule": "/Users/michel/Desktop/AppleMailMCP_new/.build/arm64-apple-macosx/release/MCP.build/Lifecycle~partial.swiftmodule",
+    "swift-dependencies": "/Users/michel/Desktop/AppleMailMCP_new/.build/arm64-apple-macosx/release/MCP.build/Lifecycle.swiftdeps",
+    "diagnostics": "/Users/michel/Desktop/AppleMailMCP_new/.build/arm64-apple-macosx/release/MCP.build/Lifecycle.dia"
+  },
+  "/Users/michel/Desktop/AppleMailMCP_new/.build/checkouts/swift-sdk/Sources/MCP/Base/Messages.swift": {
+    "object": "/Users/michel/Desktop/AppleMailMCP_new/.build/arm64-apple-macosx/release/MCP.build/Messages.swift.o",
+    "swiftmodule": "/Users/michel/Desktop/AppleMailMCP_new/.build/arm64-apple-macosx/release/MCP.build/Messages~partial.swiftmodule",
+    "swift-dependencies": "/Users/michel/Desktop/AppleMailMCP_new/.build/arm64-apple-macosx/release/MCP.build/Messages.swiftdeps",
+    "diagnostics": "/Users/michel/Desktop/AppleMailMCP_new/.build/arm64-apple-macosx/release/MCP.build/Messages.dia"
+  },
+  "/Users/michel/Desktop/AppleMailMCP_new/.build/checkouts/swift-sdk/Sources/MCP/Base/PendingRequest.swift": {
+    "object": "/Users/michel/Desktop/AppleMailMCP_new/.build/arm64-apple-macosx/release/MCP.build/PendingRequest.swift.o",
+    "swiftmodule": "/Users/michel/Desktop/AppleMailMCP_new/.build/arm64-apple-macosx/release/MCP.build/PendingRequest~partial.swiftmodule",
+    "swift-dependencies": "/Users/michel/Desktop/AppleMailMCP_new/.build/arm64-apple-macosx/release/MCP.build/PendingRequest.swiftdeps",
+    "diagnostics": "/Users/michel/Desktop/AppleMailMCP_new/.build/arm64-apple-macosx/release/MCP.build/PendingRequest.dia"
+  },
+  "/Users/michel/Desktop/AppleMailMCP_new/.build/checkouts/swift-sdk/Sources/MCP/Base/Transport.swift": {
+    "object": "/Users/michel/Desktop/AppleMailMCP_new/.build/arm64-apple-macosx/release/MCP.build/Transport.swift.o",
+    "swiftmodule": "/Users/michel/Desktop/AppleMailMCP_new/.build/arm64-apple-macosx/release/MCP.build/Transport~partial.swiftmodule",
+    "swift-dependencies": "/Users/michel/Desktop/AppleMailMCP_new/.build/arm64-apple-macosx/release/MCP.build/Transport.swiftdeps",
+    "diagnostics": "/Users/michel/Desktop/AppleMailMCP_new/.build/arm64-apple-macosx/release/MCP.build/Transport.dia"
+  },
+  "/Users/michel/Desktop/AppleMailMCP_new/.build/checkouts/swift-sdk/Sources/MCP/Base/Transports/HTTPClientTransport.swift": {
+    "object": "/Users/michel/Desktop/AppleMailMCP_new/.build/arm64-apple-macosx/release/MCP.build/HTTPClientTransport.swift.o",
+    "swiftmodule": "/Users/michel/Desktop/AppleMailMCP_new/.build/arm64-apple-macosx/release/MCP.build/HTTPClientTransport~partial.swiftmodule",
+    "swift-dependencies": "/Users/michel/Desktop/AppleMailMCP_new/.build/arm64-apple-macosx/release/MCP.build/HTTPClientTransport.swiftdeps",
+    "diagnostics": "/Users/michel/Desktop/AppleMailMCP_new/.build/arm64-apple-macosx/release/MCP.build/HTTPClientTransport.dia"
+  },
+  "/Users/michel/Desktop/AppleMailMCP_new/.build/checkouts/swift-sdk/Sources/MCP/Base/Transports/HTTPServer/HTTPRequestValidation.swift": {
+    "object": "/Users/michel/Desktop/AppleMailMCP_new/.build/arm64-apple-macosx/release/MCP.build/HTTPRequestValidation.swift.o",
+    "swiftmodule": "/Users/michel/Desktop/AppleMailMCP_new/.build/arm64-apple-macosx/release/MCP.build/HTTPRequestValidation~partial.swiftmodule",
+    "swift-dependencies": "/Users/michel/Desktop/AppleMailMCP_new/.build/arm64-apple-macosx/release/MCP.build/HTTPRequestValidation.swiftdeps",
+    "diagnostics": "/Users/michel/Desktop/AppleMailMCP_new/.build/arm64-apple-macosx/release/MCP.build/HTTPRequestValidation.dia"
+  },
+  "/Users/michel/Desktop/AppleMailMCP_new/.build/checkouts/swift-sdk/Sources/MCP/Base/Transports/HTTPServer/HTTPServerTypes.swift": {
+    "object": "/Users/michel/Desktop/AppleMailMCP_new/.build/arm64-apple-macosx/release/MCP.build/HTTPServerTypes.swift.o",
+    "swiftmodule": "/Users/michel/Desktop/AppleMailMCP_new/.build/arm64-apple-macosx/release/MCP.build/HTTPServerTypes~partial.swiftmodule",
+    "swift-dependencies": "/Users/michel/Desktop/AppleMailMCP_new/.build/arm64-apple-macosx/release/MCP.build/HTTPServerTypes.swiftdeps",
+    "diagnostics": "/Users/michel/Desktop/AppleMailMCP_new/.build/arm64-apple-macosx/release/MCP.build/HTTPServerTypes.dia"
+  },
+  "/Users/michel/Desktop/AppleMailMCP_new/.build/checkouts/swift-sdk/Sources/MCP/Base/Transports/HTTPServer/StatefulHTTPServerTransport.swift": {
+    "object": "/Users/michel/Desktop/AppleMailMCP_new/.build/arm64-apple-macosx/release/MCP.build/StatefulHTTPServerTransport.swift.o",
+    "swiftmodule": "/Users/michel/Desktop/AppleMailMCP_new/.build/arm64-apple-macosx/release/MCP.build/StatefulHTTPServerTransport~partial.swiftmodule",
+    "swift-dependencies": "/Users/michel/Desktop/AppleMailMCP_new/.build/arm64-apple-macosx/release/MCP.build/StatefulHTTPServerTransport.swiftdeps",
+    "diagnostics": "/Users/michel/Desktop/AppleMailMCP_new/.build/arm64-apple-macosx/release/MCP.build/StatefulHTTPServerTransport.dia"
+  },
+  "/Users/michel/Desktop/AppleMailMCP_new/.build/checkouts/swift-sdk/Sources/MCP/Base/Transports/HTTPServer/StatelessHTTPServerTransport.swift": {
+    "object": "/Users/michel/Desktop/AppleMailMCP_new/.build/arm64-apple-macosx/release/MCP.build/StatelessHTTPServerTransport.swift.o",
+    "swiftmodule": "/Users/michel/Desktop/AppleMailMCP_new/.build/arm64-apple-macosx/release/MCP.build/StatelessHTTPServerTransport~partial.swiftmodule",
+    "swift-dependencies": "/Users/michel/Desktop/AppleMailMCP_new/.build/arm64-apple-macosx/release/MCP.build/StatelessHTTPServerTransport.swiftdeps",
+    "diagnostics": "/Users/michel/Desktop/AppleMailMCP_new/.build/arm64-apple-macosx/release/MCP.build/StatelessHTTPServerTransport.dia"
+  },
+  "/Users/michel/Desktop/AppleMailMCP_new/.build/checkouts/swift-sdk/Sources/MCP/Base/Transports/InMemoryTransport.swift": {
+    "object": "/Users/michel/Desktop/AppleMailMCP_new/.build/arm64-apple-macosx/release/MCP.build/InMemoryTransport.swift.o",
+    "swiftmodule": "/Users/michel/Desktop/AppleMailMCP_new/.build/arm64-apple-macosx/release/MCP.build/InMemoryTransport~partial.swiftmodule",
+    "swift-dependencies": "/Users/michel/Desktop/AppleMailMCP_new/.build/arm64-apple-macosx/release/MCP.build/InMemoryTransport.swiftdeps",
+    "diagnostics": "/Users/michel/Desktop/AppleMailMCP_new/.build/arm64-apple-macosx/release/MCP.build/InMemoryTransport.dia"
+  },
+  "/Users/michel/Desktop/AppleMailMCP_new/.build/checkouts/swift-sdk/Sources/MCP/Base/Transports/NetworkTransport.swift": {
+    "object": "/Users/michel/Desktop/AppleMailMCP_new/.build/arm64-apple-macosx/release/MCP.build/NetworkTransport.swift.o",
+    "swiftmodule": "/Users/michel/Desktop/AppleMailMCP_new/.build/arm64-apple-macosx/release/MCP.build/NetworkTransport~partial.swiftmodule",
+    "swift-dependencies": "/Users/michel/Desktop/AppleMailMCP_new/.build/arm64-apple-macosx/release/MCP.build/NetworkTransport.swiftdeps",
+    "diagnostics": "/Users/michel/Desktop/AppleMailMCP_new/.build/arm64-apple-macosx/release/MCP.build/NetworkTransport.dia"
+  },
+  "/Users/michel/Desktop/AppleMailMCP_new/.build/checkouts/swift-sdk/Sources/MCP/Base/Transports/StdioTransport.swift": {
+    "object": "/Users/michel/Desktop/AppleMailMCP_new/.build/arm64-apple-macosx/release/MCP.build/StdioTransport.swift.o",
+    "swiftmodule": "/Users/michel/Desktop/AppleMailMCP_new/.build/arm64-apple-macosx/release/MCP.build/StdioTransport~partial.swiftmodule",
+    "swift-dependencies": "/Users/michel/Desktop/AppleMailMCP_new/.build/arm64-apple-macosx/release/MCP.build/StdioTransport.swiftdeps",
+    "diagnostics": "/Users/michel/Desktop/AppleMailMCP_new/.build/arm64-apple-macosx/release/MCP.build/StdioTransport.dia"
+  },
+  "/Users/michel/Desktop/AppleMailMCP_new/.build/checkouts/swift-sdk/Sources/MCP/Base/UnitInterval.swift": {
+    "object": "/Users/michel/Desktop/AppleMailMCP_new/.build/arm64-apple-macosx/release/MCP.build/UnitInterval.swift.o",
+    "swiftmodule": "/Users/michel/Desktop/AppleMailMCP_new/.build/arm64-apple-macosx/release/MCP.build/UnitInterval~partial.swiftmodule",
+    "swift-dependencies": "/Users/michel/Desktop/AppleMailMCP_new/.build/arm64-apple-macosx/release/MCP.build/UnitInterval.swiftdeps",
+    "diagnostics": "/Users/michel/Desktop/AppleMailMCP_new/.build/arm64-apple-macosx/release/MCP.build/UnitInterval.dia"
+  },
+  "/Users/michel/Desktop/AppleMailMCP_new/.build/checkouts/swift-sdk/Sources/MCP/Base/Utilities/Cancellation.swift": {
+    "object": "/Users/michel/Desktop/AppleMailMCP_new/.build/arm64-apple-macosx/release/MCP.build/Cancellation.swift.o",
+    "swiftmodule": "/Users/michel/Desktop/AppleMailMCP_new/.build/arm64-apple-macosx/release/MCP.build/Cancellation~partial.swiftmodule",
+    "swift-dependencies": "/Users/michel/Desktop/AppleMailMCP_new/.build/arm64-apple-macosx/release/MCP.build/Cancellation.swiftdeps",
+    "diagnostics": "/Users/michel/Desktop/AppleMailMCP_new/.build/arm64-apple-macosx/release/MCP.build/Cancellation.dia"
+  },
+  "/Users/michel/Desktop/AppleMailMCP_new/.build/checkouts/swift-sdk/Sources/MCP/Base/Utilities/Ping.swift": {
+    "object": "/Users/michel/Desktop/AppleMailMCP_new/.build/arm64-apple-macosx/release/MCP.build/Ping.swift.o",
+    "swiftmodule": "/Users/michel/Desktop/AppleMailMCP_new/.build/arm64-apple-macosx/release/MCP.build/Ping~partial.swiftmodule",
+    "swift-dependencies": "/Users/michel/Desktop/AppleMailMCP_new/.build/arm64-apple-macosx/release/MCP.build/Ping.swiftdeps",
+    "diagnostics": "/Users/michel/Desktop/AppleMailMCP_new/.build/arm64-apple-macosx/release/MCP.build/Ping.dia"
+  },
+  "/Users/michel/Desktop/AppleMailMCP_new/.build/checkouts/swift-sdk/Sources/MCP/Base/Utilities/Progress.swift": {
+    "object": "/Users/michel/Desktop/AppleMailMCP_new/.build/arm64-apple-macosx/release/MCP.build/Progress.swift.o",
+    "swiftmodule": "/Users/michel/Desktop/AppleMailMCP_new/.build/arm64-apple-macosx/release/MCP.build/Progress~partial.swiftmodule",
+    "swift-dependencies": "/Users/michel/Desktop/AppleMailMCP_new/.build/arm64-apple-macosx/release/MCP.build/Progress.swiftdeps",
+    "diagnostics": "/Users/michel/Desktop/AppleMailMCP_new/.build/arm64-apple-macosx/release/MCP.build/Progress.dia"
+  },
+  "/Users/michel/Desktop/AppleMailMCP_new/.build/checkouts/swift-sdk/Sources/MCP/Base/Utilities/RequestContext.swift": {
+    "object": "/Users/michel/Desktop/AppleMailMCP_new/.build/arm64-apple-macosx/release/MCP.build/RequestContext.swift.o",
+    "swiftmodule": "/Users/michel/Desktop/AppleMailMCP_new/.build/arm64-apple-macosx/release/MCP.build/RequestContext~partial.swiftmodule",
+    "swift-dependencies": "/Users/michel/Desktop/AppleMailMCP_new/.build/arm64-apple-macosx/release/MCP.build/RequestContext.swiftdeps",
+    "diagnostics": "/Users/michel/Desktop/AppleMailMCP_new/.build/arm64-apple-macosx/release/MCP.build/RequestContext.dia"
+  },
+  "/Users/michel/Desktop/AppleMailMCP_new/.build/checkouts/swift-sdk/Sources/MCP/Base/Value.swift": {
+    "object": "/Users/michel/Desktop/AppleMailMCP_new/.build/arm64-apple-macosx/release/MCP.build/Value.swift.o",
+    "swiftmodule": "/Users/michel/Desktop/AppleMailMCP_new/.build/arm64-apple-macosx/release/MCP.build/Value~partial.swiftmodule",
+    "swift-dependencies": "/Users/michel/Desktop/AppleMailMCP_new/.build/arm64-apple-macosx/release/MCP.build/Value.swiftdeps",
+    "diagnostics": "/Users/michel/Desktop/AppleMailMCP_new/.build/arm64-apple-macosx/release/MCP.build/Value.dia"
+  },
+  "/Users/michel/Desktop/AppleMailMCP_new/.build/checkouts/swift-sdk/Sources/MCP/Base/Versioning.swift": {
+    "object": "/Users/michel/Desktop/AppleMailMCP_new/.build/arm64-apple-macosx/release/MCP.build/Versioning.swift.o",
+    "swiftmodule": "/Users/michel/Desktop/AppleMailMCP_new/.build/arm64-apple-macosx/release/MCP.build/Versioning~partial.swiftmodule",
+    "swift-dependencies": "/Users/michel/Desktop/AppleMailMCP_new/.build/arm64-apple-macosx/release/MCP.build/Versioning.swiftdeps",
+    "diagnostics": "/Users/michel/Desktop/AppleMailMCP_new/.build/arm64-apple-macosx/release/MCP.build/Versioning.dia"
+  },
+  "/Users/michel/Desktop/AppleMailMCP_new/.build/checkouts/swift-sdk/Sources/MCP/Client/Client.swift": {
+    "object": "/Users/michel/Desktop/AppleMailMCP_new/.build/arm64-apple-macosx/release/MCP.build/Client.swift.o",
+    "swiftmodule": "/Users/michel/Desktop/AppleMailMCP_new/.build/arm64-apple-macosx/release/MCP.build/Client~partial.swiftmodule",
+    "swift-dependencies": "/Users/michel/Desktop/AppleMailMCP_new/.build/arm64-apple-macosx/release/MCP.build/Client.swiftdeps",
+    "diagnostics": "/Users/michel/Desktop/AppleMailMCP_new/.build/arm64-apple-macosx/release/MCP.build/Client.dia"
+  },
+  "/Users/michel/Desktop/AppleMailMCP_new/.build/checkouts/swift-sdk/Sources/MCP/Client/Elicitation.swift": {
+    "object": "/Users/michel/Desktop/AppleMailMCP_new/.build/arm64-apple-macosx/release/MCP.build/Elicitation.swift.o",
+    "swiftmodule": "/Users/michel/Desktop/AppleMailMCP_new/.build/arm64-apple-macosx/release/MCP.build/Elicitation~partial.swiftmodule",
+    "swift-dependencies": "/Users/michel/Desktop/AppleMailMCP_new/.build/arm64-apple-macosx/release/MCP.build/Elicitation.swiftdeps",
+    "diagnostics": "/Users/michel/Desktop/AppleMailMCP_new/.build/arm64-apple-macosx/release/MCP.build/Elicitation.dia"
+  },
+  "/Users/michel/Desktop/AppleMailMCP_new/.build/checkouts/swift-sdk/Sources/MCP/Client/Roots.swift": {
+    "object": "/Users/michel/Desktop/AppleMailMCP_new/.build/arm64-apple-macosx/release/MCP.build/Roots.swift.o",
+    "swiftmodule": "/Users/michel/Desktop/AppleMailMCP_new/.build/arm64-apple-macosx/release/MCP.build/Roots~partial.swiftmodule",
+    "swift-dependencies": "/Users/michel/Desktop/AppleMailMCP_new/.build/arm64-apple-macosx/release/MCP.build/Roots.swiftdeps",
+    "diagnostics": "/Users/michel/Desktop/AppleMailMCP_new/.build/arm64-apple-macosx/release/MCP.build/Roots.dia"
+  },
+  "/Users/michel/Desktop/AppleMailMCP_new/.build/checkouts/swift-sdk/Sources/MCP/Client/Sampling.swift": {
+    "object": "/Users/michel/Desktop/AppleMailMCP_new/.build/arm64-apple-macosx/release/MCP.build/Sampling.swift.o",
+    "swiftmodule": "/Users/michel/Desktop/AppleMailMCP_new/.build/arm64-apple-macosx/release/MCP.build/Sampling~partial.swiftmodule",
+    "swift-dependencies": "/Users/michel/Desktop/AppleMailMCP_new/.build/arm64-apple-macosx/release/MCP.build/Sampling.swiftdeps",
+    "diagnostics": "/Users/michel/Desktop/AppleMailMCP_new/.build/arm64-apple-macosx/release/MCP.build/Sampling.dia"
+  },
+  "/Users/michel/Desktop/AppleMailMCP_new/.build/checkouts/swift-sdk/Sources/MCP/Extensions/Data+Extensions.swift": {
+    "object": "/Users/michel/Desktop/AppleMailMCP_new/.build/arm64-apple-macosx/release/MCP.build/Data+Extensions.swift.o",
+    "swiftmodule": "/Users/michel/Desktop/AppleMailMCP_new/.build/arm64-apple-macosx/release/MCP.build/Data+Extensions~partial.swiftmodule",
+    "swift-dependencies": "/Users/michel/Desktop/AppleMailMCP_new/.build/arm64-apple-macosx/release/MCP.build/Data+Extensions.swiftdeps",
+    "diagnostics": "/Users/michel/Desktop/AppleMailMCP_new/.build/arm64-apple-macosx/release/MCP.build/Data+Extensions.dia"
+  },
+  "/Users/michel/Desktop/AppleMailMCP_new/.build/checkouts/swift-sdk/Sources/MCP/Server/Completion.swift": {
+    "object": "/Users/michel/Desktop/AppleMailMCP_new/.build/arm64-apple-macosx/release/MCP.build/Completion.swift.o",
+    "swiftmodule": "/Users/michel/Desktop/AppleMailMCP_new/.build/arm64-apple-macosx/release/MCP.build/Completion~partial.swiftmodule",
+    "swift-dependencies": "/Users/michel/Desktop/AppleMailMCP_new/.build/arm64-apple-macosx/release/MCP.build/Completion.swiftdeps",
+    "diagnostics": "/Users/michel/Desktop/AppleMailMCP_new/.build/arm64-apple-macosx/release/MCP.build/Completion.dia"
+  },
+  "/Users/michel/Desktop/AppleMailMCP_new/.build/checkouts/swift-sdk/Sources/MCP/Server/Logging.swift": {
+    "object": "/Users/michel/Desktop/AppleMailMCP_new/.build/arm64-apple-macosx/release/MCP.build/Logging.swift.o",
+    "swiftmodule": "/Users/michel/Desktop/AppleMailMCP_new/.build/arm64-apple-macosx/release/MCP.build/Logging~partial.swiftmodule",
+    "swift-dependencies": "/Users/michel/Desktop/AppleMailMCP_new/.build/arm64-apple-macosx/release/MCP.build/Logging.swiftdeps",
+    "diagnostics": "/Users/michel/Desktop/AppleMailMCP_new/.build/arm64-apple-macosx/release/MCP.build/Logging.dia"
+  },
+  "/Users/michel/Desktop/AppleMailMCP_new/.build/checkouts/swift-sdk/Sources/MCP/Server/Prompts.swift": {
+    "object": "/Users/michel/Desktop/AppleMailMCP_new/.build/arm64-apple-macosx/release/MCP.build/Prompts.swift.o",
+    "swiftmodule": "/Users/michel/Desktop/AppleMailMCP_new/.build/arm64-apple-macosx/release/MCP.build/Prompts~partial.swiftmodule",
+    "swift-dependencies": "/Users/michel/Desktop/AppleMailMCP_new/.build/arm64-apple-macosx/release/MCP.build/Prompts.swiftdeps",
+    "diagnostics": "/Users/michel/Desktop/AppleMailMCP_new/.build/arm64-apple-macosx/release/MCP.build/Prompts.dia"
+  },
+  "/Users/michel/Desktop/AppleMailMCP_new/.build/checkouts/swift-sdk/Sources/MCP/Server/Resources.swift": {
+    "object": "/Users/michel/Desktop/AppleMailMCP_new/.build/arm64-apple-macosx/release/MCP.build/Resources.swift.o",
+    "swiftmodule": "/Users/michel/Desktop/AppleMailMCP_new/.build/arm64-apple-macosx/release/MCP.build/Resources~partial.swiftmodule",
+    "swift-dependencies": "/Users/michel/Desktop/AppleMailMCP_new/.build/arm64-apple-macosx/release/MCP.build/Resources.swiftdeps",
+    "diagnostics": "/Users/michel/Desktop/AppleMailMCP_new/.build/arm64-apple-macosx/release/MCP.build/Resources.dia"
+  },
+  "/Users/michel/Desktop/AppleMailMCP_new/.build/checkouts/swift-sdk/Sources/MCP/Server/Server.swift": {
+    "object": "/Users/michel/Desktop/AppleMailMCP_new/.build/arm64-apple-macosx/release/MCP.build/Server.swift.o",
+    "swiftmodule": "/Users/michel/Desktop/AppleMailMCP_new/.build/arm64-apple-macosx/release/MCP.build/Server~partial.swiftmodule",
+    "swift-dependencies": "/Users/michel/Desktop/AppleMailMCP_new/.build/arm64-apple-macosx/release/MCP.build/Server.swiftdeps",
+    "diagnostics": "/Users/michel/Desktop/AppleMailMCP_new/.build/arm64-apple-macosx/release/MCP.build/Server.dia"
+  },
+  "/Users/michel/Desktop/AppleMailMCP_new/.build/checkouts/swift-sdk/Sources/MCP/Server/Tools.swift": {
+    "object": "/Users/michel/Desktop/AppleMailMCP_new/.build/arm64-apple-macosx/release/MCP.build/Tools.swift.o",
+    "swiftmodule": "/Users/michel/Desktop/AppleMailMCP_new/.build/arm64-apple-macosx/release/MCP.build/Tools~partial.swiftmodule",
+    "swift-dependencies": "/Users/michel/Desktop/AppleMailMCP_new/.build/arm64-apple-macosx/release/MCP.build/Tools.swiftdeps",
+    "diagnostics": "/Users/michel/Desktop/AppleMailMCP_new/.build/arm64-apple-macosx/release/MCP.build/Tools.dia"
+  }
+}

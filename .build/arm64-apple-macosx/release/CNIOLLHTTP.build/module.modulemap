@@ -1,0 +1,4 @@
+module CNIOLLHTTP {
+    umbrella header "/Users/michel/Desktop/AppleMailMCP_new/.build/checkouts/swift-nio/Sources/CNIOLLHTTP/include/CNIOLLHTTP.h"
+    export *
+}
